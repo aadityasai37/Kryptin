@@ -4,3 +4,8 @@ Cryptography is the practice and study of techniques for secure communication in
 
 While studying Cyber Security, I came across the fundamental concept of encryption and that is when I learned about Cryptography. While going in the theoretical depths of the topic, I tried to implement some of the techniques I learned.
 Here, I have built a Cryptography Machine using Python programming language.
+
+## Project Team 
+* [ Aditya Sai ]
+* [ Donal K Yohannan ]
+* [ Adarsh Anil ] 
